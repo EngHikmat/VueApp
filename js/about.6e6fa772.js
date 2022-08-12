@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkVueDployment"]=self["webpackChunkVueDployment"]||[]).push([[443],{767:function(e,t,u){u.r(t),u.d(t,{default:function(){return r}});var n=function(){var e=this;e._self._c;return e._m(0)},s=[function(){var e=this,t=e._self._c;return t("div",{staticClass:"about"},[t("h1",[e._v("This is an about page in Github Pages")]),t("h3",[e._v("Tested app by vue js")])])}],a=u(1),l={},i=(0,a.Z)(l,n,s,!1,null,null,null),r=i.exports}}]);
+//# sourceMappingURL=about.6e6fa772.js.map
